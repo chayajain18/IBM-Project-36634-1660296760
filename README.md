@@ -1,6 +1,6 @@
 # IBM-Project-36634-1660296760
 <p>AI based discourse for Banking Industry<p>
-**INTRODUCTION:**
+INTRODUCTION:
 <p>In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
 
 <ol>The Bot should be able to guide a customer to create a bank account.</ol>
