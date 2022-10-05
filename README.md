@@ -20,6 +20,13 @@
 
 ## $\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
 
+- Artificial intelligence in the banking sector makes banks efficient, trustworthy, helpful, and more understanding. It is strengthening the competitive edge of modern banks in this digital era. The growing impact of AI in banking sector minimizes operational costs improves customer support and process automation.
+ - Nearly 40% to 50% of financial and banking service providers are using AI in their processes to harness the power of next-generation AI capabilities. The companies believe that AI is the future of banking sector which can perform a range of banking operations in faster, easier, and more secure ways.
+ - AI banking Chatbots help customers in many ways. AI-based chatbot service for financial industry is one of the significant use cases of AI in banking sector. AI chatbots in banking are modernizing the way how businesses provide services to their customers.
+ - AI chatbots in banking industry can assist customers 24*7 and give accurate responses to their queries. These chatbots provide a personalized experience to users.
+ - Hence, AI chatbots for banking and finance operations let banks attract customer attention, optimize service quality, and expand the brand mark in the market.
+
+
 ## $\color[RGB]{153,153,255} INTRODUCTION:$
 
 
