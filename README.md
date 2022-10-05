@@ -1,5 +1,5 @@
 # IBM-Project-36634-1660296760
-AI based discourse for Banking Industry
+<p>AI based discourse for Banking Industry<p>
 INTRODUCTION: 
 <p>AI chatbots uses natural language processing (NLP) and machine learning to understand the context and intent of a user’s query pattern and to create connections between different queries which are asked in different ways in order to provide a better response. </p>
 PROJECT OBJECTIVE:
