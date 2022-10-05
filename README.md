@@ -1,6 +1,9 @@
 # AI based discourse for Banking Industry <img src="https://user-images.githubusercontent.com/83297844/194119925-3be6535b-ea6e-47e6-be8c-b5398df7138b.png" alt="InfiniteGraph Logo" width="35"><img src="https://user-images.githubusercontent.com/83297844/194121564-7ad52db3-3e37-4394-a3a1-9ee66ec67cad.png" alt="InfiniteGraph Logo" width="45">
 
 
+![](https://img.shields.io/badge/github-orange?style=for-the-badge)
+![](https://img.shields.io/badge/IBM-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/AGNI_COLLEGE_OF_TECHNOLOGY-lightgrey?style=for-the-badge)
 
 
 $\color[RGB]{153,153,255} TEAM:$
@@ -99,10 +102,10 @@ $\color[RGB]{153,153,255} PROJECT \ WORKFLOW:$
         
 $\color[RGB]{153,153,255} FINAL \ OUTPUT:$
 
+![image](https://user-images.githubusercontent.com/83297844/194128244-43401b86-e549-4332-a8f0-9160b44df261.png)
 
-![](https://img.shields.io/badge/github-orange?style=for-the-badge)
-![](https://img.shields.io/badge/IBM-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/AGNI_COLLEGE_OF_TECHNOLOGY-lightgrey?style=for-the-badge)
+![image](https://user-images.githubusercontent.com/83297844/194127546-1f6876df-2f3c-46fb-8f12-2c256393d25b.png)
+
 
 
 
