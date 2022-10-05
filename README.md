@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/AGNI_COLLEGE_OF_TECHNOLOGY-lightgrey?style=for-the-badge)
 
 
-$\color[RGB]{153,153,255} TEAM:$
+## $\color[RGB]{153,153,255} TEAM:$
 
     1. Siva Sankari L [TL] - 
     
@@ -16,11 +16,11 @@ $\color[RGB]{153,153,255} TEAM:$
     
     4. Gokul S - 
     
-$\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$
+## $\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$
 
-$\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
+## $\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
 
-$\color[RGB]{153,153,255} INTRODUCTION:$
+## $\color[RGB]{153,153,255} INTRODUCTION:$
 
 
 
@@ -32,7 +32,7 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
  - The Bot should be able to answer general banking queries.
  - The Bot should be able to answer queries regarding net banking.
 
-$\color[RGB]{153,153,255} PROJECT \ OBJECTIVE:$
+## $\color[RGB]{153,153,255} PROJECT \ OBJECTIVE:$
 
 After completing this project, you will learn how to 
 
@@ -45,17 +45,17 @@ After completing this project, you will learn how to
  ✅Deploy skill to generate a preview link
 
 
-$\color[RGB]{153,153,255} SERVICES \ USED:$
+## $\color[RGB]{153,153,255} SERVICES \ USED:$
 - IBM Watson Assistant
 
 ![image](https://user-images.githubusercontent.com/83297844/194100388-c8a731b7-06b0-4d8f-ab22-6df3102f8900.png)
 
-$\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
+## $\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
 
 ![image](https://user-images.githubusercontent.com/83297844/194111655-ec69a33c-0bec-4a06-8b3b-0ac6b4b2e5a0.png)
 
 
-$\color[RGB]{153,153,255} PROJECT \ WORKFLOW:$
+## $\color[RGB]{153,153,255} PROJECT \ WORKFLOW:$
 
 >       * Ideation phase
 >           
@@ -100,7 +100,7 @@ $\color[RGB]{153,153,255} PROJECT \ WORKFLOW:$
 >           * [Project Development - Delivery Of Sprint-4] -
 >                
         
-$\color[RGB]{153,153,255} FINAL \ OUTPUT:$
+## $\color[RGB]{153,153,255} FINAL \ OUTPUT:$
 
 ![image](https://user-images.githubusercontent.com/83297844/194128244-43401b86-e549-4332-a8f0-9160b44df261.png)
 
@@ -109,4 +109,4 @@ $\color[RGB]{153,153,255} FINAL \ OUTPUT:$
 
 
 
-IBM Project | Dept of Information Technology | <img src="https://user-images.githubusercontent.com/83297844/194126327-5c9091a6-f2ab-4793-9444-9a07f37aafe0.png" alt="InfiniteGraph Logo" width="20"> Agni College of Technology 
+### IBM Project | Dept of Information Technology | <img src="https://user-images.githubusercontent.com/83297844/194126327-5c9091a6-f2ab-4793-9444-9a07f37aafe0.png" alt="InfiniteGraph Logo" width="20"> Agni College of Technology 
