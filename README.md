@@ -1,5 +1,5 @@
 # IBM-Project-36634-1660296760
-## AI based discourse for Banking Industry ![image](https://user-images.githubusercontent.com/83297844/194119925-3be6535b-ea6e-47e6-be8c-b5398df7138b.png)
+## AI based discourse for Banking Industry <img src="https://user-images.githubusercontent.com/83297844/194119925-3be6535b-ea6e-47e6-be8c-b5398df7138b.png" alt="InfiniteGraph Logo" width="35">
 
 
 $\color[RGB]{153,153,255} TEAM:$
