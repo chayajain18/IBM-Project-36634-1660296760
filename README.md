@@ -16,7 +16,6 @@ Deploy skill to generate a preview link<p>
 PROBLEM STATEMENT:
 <p></p>
 
-Services Used:
-<img ref="">
+SERVICES USED:
+<p>IBM Watson Assistant</p>
 
-IBM Watson Assistant
