@@ -1,6 +1,6 @@
 # IBM-Project-36634-1660296760
 ## AI based discourse for Banking Industry
-### **TEAM:**
+$\color[RGB]{153,153,255} TEAM:$
 
     1. Siva Sankari L [TL] - 
     
@@ -9,7 +9,8 @@
     3. Gokul R - 
     
     4. Gokul S - 
-### **INTRODUCTION:**
+$\color[RGB]{153,153,255} INTRODUCTION:$
+
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
  - The Bot should be able to guide a customer to create a bank account.
@@ -17,7 +18,7 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
  - The Bot should be able to answer general banking queries.
  - The Bot should be able to answer queries regarding net banking.
 
-### **PROJECT OBJECTIVE:**
+$\color[RGB]{153,153,255} PROJECT \ OBJECTIVE:$
 
 After completing this project, you will learn how to 
 
@@ -28,16 +29,18 @@ After completing this project, you will learn how to
  ✅Use Entities, Intents, Dialogues
  
  ✅Deploy skill to generate a preview link
+ 
+\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$
 
-### **PROBLEM STATEMENT:**
-### **PROBLEM SOLUTION:**
+\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
 
-### **SERVICES USED:**
+
+$\color[RGB]{153,153,255} SERVICES \ USED:$
 - IBM Watson Assistant
 
 ![image](https://user-images.githubusercontent.com/83297844/194100388-c8a731b7-06b0-4d8f-ab22-6df3102f8900.png)
 
-### **TECHNICAL ARCHITECTURE:**
+$\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
 
 ![image](https://user-images.githubusercontent.com/83297844/194111655-ec69a33c-0bec-4a06-8b3b-0ac6b4b2e5a0.png)
 
@@ -46,3 +49,5 @@ After completing this project, you will learn how to
 ![](https://img.shields.io/badge/IBM-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/AGNI_COLLEGE_OF_TECHNOLOGY-lightgrey?style=for-the-badge)
 
+
+$\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
