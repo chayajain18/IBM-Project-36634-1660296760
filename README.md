@@ -51,6 +51,52 @@ $\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
 
 ![image](https://user-images.githubusercontent.com/83297844/194111655-ec69a33c-0bec-4a06-8b3b-0ac6b4b2e5a0.png)
 
+
+$\color[RGB]{153,153,255} PROJECT \ WORKFLOW:$
+
+>       * Ideation phase
+>           
+>           * [Empathy Map] - 
+>           
+>           * [Literature Review] -
+>           
+>           * [Ideation] - 
+>           
+>       * Project Design Phase – I
+>            
+>           * [Proposed Solution] -
+>           
+>           * [Prepare Solution Fit] -
+>           
+>           * [Solution Architecture] -
+>           
+>       * Project Design Phase – II
+>       
+>           * [Customer Journey] -
+>           
+>           * [Functional Requirement] -
+>           
+>           * [Data Flow Diagrams]-
+>           
+>           * [Technology Architecture] -
+>           
+>       * Project Planning Phase
+>       
+>           * [Prepare Milestone & Activity List] -
+>           
+>           * [Sprint Delivery Plan] -
+>           
+>       * Project Development Phase
+>       
+>           * [Project Development - Delivery Of Sprint-1] -
+>           
+>           * [Project Development - Delivery Of Sprint-2] -     
+>               
+>           * [Project Development - Delivery Of Sprint-3]-
+>           
+>           * [Project Development - Delivery Of Sprint-4] -
+>                
+        
 $\color[RGB]{153,153,255} FINAL \ OUTPUT:$
 
 
@@ -60,3 +106,4 @@ $\color[RGB]{153,153,255} FINAL \ OUTPUT:$
 
 
 
+IBM Project | Dept of Information Technology | <img src="https://user-images.githubusercontent.com/83297844/194126327-5c9091a6-f2ab-4793-9444-9a07f37aafe0.png" alt="InfiniteGraph Logo" width="20"> Agni College of Technology 
