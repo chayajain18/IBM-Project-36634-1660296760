@@ -17,6 +17,16 @@
     4. Gokul S - 
     
 ## $\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$
+ - In the banking sector, they need to provide 24*7 service to customers.
+ - Humans cannot provide personalized services to all the customers.
+ - Customers need to wait for the availability of customer representatives.
+ - Delay in the support to the customers.
+ - Huge manpower is needed to provide services to all customers.
+ - Customer satisfaction is less in bank customer service.
+ - Less touch of personalization in customer relationships.
+
+
+
 
 ## $\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
 
@@ -24,6 +34,7 @@
  - Nearly 40% to 50% of financial and banking service providers are using AI in their processes to harness the power of next-generation AI capabilities. The companies believe that AI is the future of banking sector which can perform a range of banking operations in faster, easier, and more secure ways.
  - AI banking Chatbots help customers in many ways. AI-based chatbot service for financial industry is one of the significant use cases of AI in banking sector. AI chatbots in banking are modernizing the way how businesses provide services to their customers.
  - AI chatbots in banking industry can assist customers 24*7 and give accurate responses to their queries. These chatbots provide a personalized experience to users.
+ - AI chatbots in banking is providing a better customer experience. 
  - Hence, AI chatbots for banking and finance operations let banks attract customer attention, optimize service quality, and expand the brand mark in the market.
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/83297844/194131389-c3d0024b-8fed-4fd3-aad7-65dcc38ddabe.png" align="center">
 
