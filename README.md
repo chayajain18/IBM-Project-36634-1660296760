@@ -45,7 +45,7 @@ $\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
 
 ![image](https://user-images.githubusercontent.com/83297844/194111655-ec69a33c-0bec-4a06-8b3b-0ac6b4b2e5a0.png)
 
-$\color[RGB]{153,153,255} FINAL OUTPUT:$
+$\color[RGB]{153,153,255} FINAL \ OUTPUT:$
 
 
 ![](https://img.shields.io/badge/github-orange?style=for-the-badge)
