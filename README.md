@@ -18,4 +18,6 @@ PROBLEM STATEMENT:
 
 SERVICES USED:
 <p>IBM Watson Assistant</p>
+![image](https://user-images.githubusercontent.com/83297844/194100388-c8a731b7-06b0-4d8f-ab22-6df3102f8900.png)
+
 
