@@ -9,6 +9,11 @@ $\color[RGB]{153,153,255} TEAM:$
     3. Gokul R - 
     
     4. Gokul S - 
+    
+$\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$
+
+$\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
+
 $\color[RGB]{153,153,255} INTRODUCTION:$
 
 
@@ -29,10 +34,6 @@ After completing this project, you will learn how to
  ✅Use Entities, Intents, Dialogues
  
  ✅Deploy skill to generate a preview link
- 
-\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$
-
-\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
 
 
 $\color[RGB]{153,153,255} SERVICES \ USED:$
@@ -44,10 +45,12 @@ $\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
 
 ![image](https://user-images.githubusercontent.com/83297844/194111655-ec69a33c-0bec-4a06-8b3b-0ac6b4b2e5a0.png)
 
+$\color[RGB]{153,153,255} FINAL OUTPUT:$
+
 
 ![](https://img.shields.io/badge/github-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/IBM-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/AGNI_COLLEGE_OF_TECHNOLOGY-lightgrey?style=for-the-badge)
 
 
-$\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
+
