@@ -82,9 +82,9 @@ After completing this project, you will learn how to
 >           
 >           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Ideation%20Phase/Empathy%20map/Empathy%20map.pdf
 >           
->           * [Literature Review] -
+>           * [Literature Review] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Ideation%20Phase/Literature%20Survey.pdf
 >           
->           * [Ideation] - 
+>           * [Problem Statements] - 
 >           
 >       * Project Design Phase – I
 >            
