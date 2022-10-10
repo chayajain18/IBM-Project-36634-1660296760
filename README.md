@@ -80,7 +80,7 @@ After completing this project, you will learn how to
 
 >       * Ideation phase
 >           
->           * [Empathy Map] - 
+>           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Ideation%20Phase/Empathy%20map/Empathy%20map.pdf
 >           
 >           * [Literature Review] -
 >           
