@@ -84,7 +84,7 @@ After completing this project, you will learn how to
 >           
 >           * [Literature Review] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Ideation%20Phase/Literature%20Survey.pdf
 >           
->           * [Problem Statements] - 
+>           * [Problem Statements] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Ideation%20Phase/Problem%20Statements.pdf
 >           
 >       * Project Design Phase – I
 >            
