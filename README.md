@@ -88,11 +88,11 @@ After completing this project, you will learn how to
 >           
 >       * Project Design Phase – I
 >            
->           * [Proposed Solution] -
+>           * [Proposed Solution] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution%20.pdf
 >           
 >           * [Prepare Solution Fit] -
 >           
->           * [Solution Architecture] -
+>           * [Solution Architecture] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Architecture.pdf
 >           
 >       * Project Design Phase – II
 >       
