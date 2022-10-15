@@ -57,13 +57,13 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 
 After completing this project, you will learn how to 
 
- ✅Work with Watson Assistant
+ ☑ Work with Watson Assistant
  
- ✅Create Skills  in Watson Assistant
+ ☑ Create Skills  in Watson Assistant
  
- ✅Use Entities, Intents, Dialogues
+ ☑ Use Entities, Intents, Dialogues
  
- ✅Deploy skill to generate a preview link
+ ☑ Deploy skill to generate a preview link
 
 
 ## $\color[RGB]{153,153,255} SERVICES \ USED:$
@@ -80,29 +80,31 @@ After completing this project, you will learn how to
 
 >       * Ideation phase
 >           
->           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20map.pdf
+>           * [Empathy Map] - ✅
 >           
->           * [Literature Review] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf
+>           * [Literature Review] - ✅
 >           
->           * [Problem Statements] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statements.pdf
+>           * [Problem Statements] - ✅
+>
+>           * [Brainstorming - Idea Generation] - ✅
 >           
 >       * Project Design Phase – I
 >            
->           * [Proposed Solution] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution%20.pdf
+>           * [Proposed Solution] - ✅
 >           
->           * [Prepare Solution Fit] -
+>           * [Prepare Solution Fit] - ✅
 >           
->           * [Solution Architecture] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Architecture.pdf
+>           * [Solution Architecture] - ✅
 >           
 >       * Project Design Phase – II
 >       
->           * [Customer Journey] -
+>           * [Customer Journey] - ✅
 >           
->           * [Functional Requirement] -
+>           * [Functional Requirement] - ✅
 >           
->           * [Data Flow Diagrams]-
+>           * [Data Flow Diagrams]- ✅
 >           
->           * [Technology Architecture] -
+>           * [Technology Architecture] - ✅
 >           
 >       * Project Planning Phase
 >       
