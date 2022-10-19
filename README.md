@@ -1,12 +1,32 @@
-# AI based discourse for Banking Industry <img src="https://user-images.githubusercontent.com/83297844/194119925-3be6535b-ea6e-47e6-be8c-b5398df7138b.png" alt="InfiniteGraph Logo" width="35"><img src="https://user-images.githubusercontent.com/83297844/194121564-7ad52db3-3e37-4394-a3a1-9ee66ec67cad.png" alt="InfiniteGraph Logo" width="45">
+![image](https://user-images.githubusercontent.com/83297844/196636086-87def8f3-eaf7-4b6b-9158-43ed6211e086.png)
 
 
-![](https://img.shields.io/badge/github-orange?style=for-the-badge)
-![](https://img.shields.io/badge/IBM-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/AGNI_COLLEGE_OF_TECHNOLOGY-lightgrey?style=for-the-badge)
 
+<p align="center">
+<a href="https://www.ibm.com/in-en">
+<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
+</a>
+   <a href="https://www.python.org/g">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
+  </a>
 
-## $\color[RGB]{153,153,255} TEAM:$
+  <a href="https://www.ibm.com/cloud">
+      <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+   </a>
+ 
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/html-150458.svg?style=for-the-badge&logo=HTML&logoColor=white">
+    </a>
+</p>
+<div>
+ <h2><picture>
+
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} TEAM:$</h2></div>
+
 
     1. Siva Sankari L [TL] - 312819104071
     
@@ -15,8 +35,12 @@
     3. Gokul R - 312819104301
     
     4. Gokul S - 312819104030
-    
-## $\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$
+   </div>
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$</h2></div>    
+
  - In the banking sector, they need to provide 24*7 service to customers.
  - Humans cannot provide personalized services to all the customers.
  - Customers need to wait for the availability of customer representatives.
@@ -27,8 +51,11 @@
 
 
 
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} PROJECT \ SOLUTION:$</h2></div>
 
-## $\color[RGB]{153,153,255} PROJECT \ SOLUTION:$
 
 - The solution to the problem is Artificial intelligence in the banking sector makes banks efficient, trustworthy, helpful, and more understanding. It is strengthening the competitive edge of modern banks in this digital era. The growing impact of AI in banking sector minimizes operational costs improves customer support and process automation.
  - Nearly 40% to 50% of financial and banking service providers are using AI in their processes to harness the power of next-generation AI capabilities. The companies believe that AI is the future of banking sector which can perform a range of banking operations in faster, easier, and more secure ways.
@@ -40,8 +67,10 @@
  
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/83297844/194131389-c3d0024b-8fed-4fd3-aad7-65dcc38ddabe.png" align="center">
 
-
-## $\color[RGB]{153,153,255} INTRODUCTION:$
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} INTRODUCTION:$</h2></div>
 
 
 
@@ -53,58 +82,71 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
  - The Bot should be able to answer general banking queries.
  - The Bot should be able to answer queries regarding net banking.
 
-## $\color[RGB]{153,153,255} PROJECT \ OBJECTIVE:$
+
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} PROJECT \ OBJECTIVE:$</h2></div>
+
 
 After completing this project, you will learn how to 
 
- ☑ Work with Watson Assistant
+ ✅Work with Watson Assistant
  
- ☑ Create Skills  in Watson Assistant
+ ✅Create Skills  in Watson Assistant
  
- ☑ Use Entities, Intents, Dialogues
+ ✅Use Entities, Intents, Dialogues
  
- ☑ Deploy skill to generate a preview link
+ ✅Deploy skill to generate a preview link
 
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} SERVICES \ USED:$</h2></div>
 
-## $\color[RGB]{153,153,255} SERVICES \ USED:$
 - IBM Watson Assistant
 
 ![image](https://user-images.githubusercontent.com/83297844/194100388-c8a731b7-06b0-4d8f-ab22-6df3102f8900.png)
 
-## $\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} TECHNICAL \ ARCHITECTURE:$</h2></div>
+
 
 ![image](https://user-images.githubusercontent.com/83297844/194111655-ec69a33c-0bec-4a06-8b3b-0ac6b4b2e5a0.png)
 
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} PROJECT \ WORKFLOW:$</h2></div>
 
-## $\color[RGB]{153,153,255} PROJECT \ WORKFLOW:$
 
 >       * Ideation phase
 >           
->           * [Empathy Map] - ✅
+>           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20map.pdf
 >           
->           * [Literature Review] - ✅
+>           * [Literature Review] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf
 >           
->           * [Problem Statements] - ✅
->
->           * [Brainstorming - Idea Generation] - ✅
+>           * [Problem Statements] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statements.pdf
 >           
 >       * Project Design Phase – I
 >            
->           * [Proposed Solution] - ✅
+>           * [Proposed Solution] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution%20.pdf
 >           
->           * [Prepare Solution Fit] - ✅
+>           * [Prepare Solution Fit] -
 >           
->           * [Solution Architecture] - ✅
+>           * [Solution Architecture] - https://github.com/IBM-EPBL/IBM-Project-36634-1660296760/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Architecture.pdf
 >           
 >       * Project Design Phase – II
 >       
->           * [Customer Journey] - ✅
+>           * [Customer Journey] -
 >           
->           * [Functional Requirement] - ✅
+>           * [Functional Requirement] -
 >           
->           * [Data Flow Diagrams]- ✅
+>           * [Data Flow Diagrams]-
 >           
->           * [Technology Architecture] - ✅
+>           * [Technology Architecture] -
 >           
 >       * Project Planning Phase
 >       
@@ -122,8 +164,11 @@ After completing this project, you will learn how to
 >           
 >           * [Project Development - Delivery Of Sprint-4] -
 >                
-        
-## $\color[RGB]{153,153,255} FINAL \ OUTPUT:$
+<div>
+ <h2><picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{153,153,255} FINAL \ OUTPUT:$</h2></div>     
+
 
 ![image](https://user-images.githubusercontent.com/83297844/194128244-43401b86-e549-4332-a8f0-9160b44df261.png)
 
@@ -132,4 +177,9 @@ After completing this project, you will learn how to
 
 
 
-### IBM Project | <img src="https://user-images.githubusercontent.com/83297844/194126327-5c9091a6-f2ab-4793-9444-9a07f37aafe0.png" alt="InfiniteGraph Logo" width="20"> Agni College of Technology 
+<div align="center">
+ <h5> Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
+</picture> in India | Agni College of Technology </h5>
+
