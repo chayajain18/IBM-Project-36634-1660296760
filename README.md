@@ -170,7 +170,7 @@ After completing this project, you will learn how to
 >       
 >           * [Prepare Milestone & Activity List] -
 >           
->           * [Sprint Delivery Plan] -
+>           * [Sprint Delivery Plan] - ✔️
 >           
 >       * Project Development Phase
 >       
