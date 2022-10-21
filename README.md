@@ -39,7 +39,7 @@
 <div>
  <h2><picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
-</picture>$\color[RGB]{153,153,255} PPROBLEM \ STATEMENT:$</h2></div>    
+</picture>$\color[RGB]{153,153,255} PROBLEM \ STATEMENT:$</h2></div>    
 
  🙅‍♀️ In the banking sector, they need to provide 24*7 service to customers.
  
