@@ -170,9 +170,11 @@ After completing this project, you will learn how to
 </picture>$\color[RGB]{153,153,255} FINAL \ OUTPUT:$</h2></div>     
 
 
-![image](https://user-images.githubusercontent.com/83297844/194128244-43401b86-e549-4332-a8f0-9160b44df261.png)
+![image](https://user-images.githubusercontent.com/83297844/197245948-7ef9030a-d81d-4d90-8d19-e60b9eea0596.png)
 
-![image](https://user-images.githubusercontent.com/83297844/194127546-1f6876df-2f3c-46fb-8f12-2c256393d25b.png)
+![image](https://user-images.githubusercontent.com/83297844/197246290-622994ad-0f5a-4ee0-bd75-9dd6ffde7522.png)
+
+![image](https://user-images.githubusercontent.com/83297844/197246606-577f389e-6d10-491d-ad87-4649727ec667.png)
 
 
 
