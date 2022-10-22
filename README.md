@@ -200,6 +200,11 @@ After completing this project, you will learn how to
 
 
 
+ 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+
+
+
 <div align="center">
  <h5> Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
