@@ -174,13 +174,13 @@ After completing this project, you will learn how to
 >           
 >       * Project Development Phase
 >       
->           * [Project Development - Delivery Of Sprint-1] -
+>           * [Project Development - Delivery Of Sprint-1] - ✔️
 >           
->           * [Project Development - Delivery Of Sprint-2] -     
+>           * [Project Development - Delivery Of Sprint-2] - ✔️ 
 >               
->           * [Project Development - Delivery Of Sprint-3]-
+>           * [Project Development - Delivery Of Sprint-3]- ✔️
 >           
->           * [Project Development - Delivery Of Sprint-4] -
+>           * [Project Development - Delivery Of Sprint-4] - ✔️
 >                
 <div>
  <h2><picture>
@@ -188,14 +188,13 @@ After completing this project, you will learn how to
 </picture>$\color[RGB]{153,153,255} FINAL \ OUTPUT📲:$</h2></div>     
 
 
-![image](https://user-images.githubusercontent.com/83297844/197245948-7ef9030a-d81d-4d90-8d19-e60b9eea0596.png)
+![image](https://user-images.githubusercontent.com/83297844/197362647-7519174f-69f1-474b-b9c9-26ecd3a6efe2.png)
 
-![image](https://user-images.githubusercontent.com/83297844/197331534-6f12a691-c1c9-43a1-b851-8b91275928db.png)
+![image](https://user-images.githubusercontent.com/83297844/197362986-58d19047-2819-40b1-8ad8-8b9cf7a7a1d2.png)
 
+![image](https://user-images.githubusercontent.com/83297844/197362543-bc9e3760-e6d3-4abf-b73c-e62daf5c1b72.png)
 
-![image](https://user-images.githubusercontent.com/83297844/197331646-15eb5c7f-1543-40c4-a837-8b735ec6ebcd.png)
-
-![image](https://user-images.githubusercontent.com/83297844/197246606-577f389e-6d10-491d-ad87-4649727ec667.png)
+![image](https://user-images.githubusercontent.com/83297844/197362594-8780709f-e0c1-4df1-8ec6-fc4b0adc5e6d.png)
 
 
 
