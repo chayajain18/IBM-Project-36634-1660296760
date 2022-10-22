@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
    </a>
  
-  <a href="https://pandas.pydata.org/">
+  <a href="https://html.com/">
     <img src="https://img.shields.io/badge/html-150458.svg?style=for-the-badge&logo=HTML&logoColor=white">
     </a>
 </p>
