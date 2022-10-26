@@ -168,7 +168,7 @@ After completing this project, you will learn how to
 >           
 >       * Project Planning Phase
 >       
->           * [Prepare Milestone & Activity List] -
+>           * [Prepare Milestone & Activity List] - ✔️
 >           
 >           * [Sprint Delivery Plan] - ✔️
 >           
